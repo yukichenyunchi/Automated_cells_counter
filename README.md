@@ -23,7 +23,7 @@ After running the code as described in previous section, there is a graphical us
 [Crop an image on GUI](https://stackoverflow.com/questions/67762695/tkinter-draw-rectangle-using-a-mouse-and-crop-a-photo-in-the-shape-of-that-rec)
 
 # Acknowledgement
-Thank Dr. Chang, Ya-Jen (IBMS, Academia Sinica) for offering the biological materials in this project.
+Thank Dr. Chang, Ya-Jen (IBMS, Academia Sinica, Taiwan) for offering the biological materials in this project.
 
 
 
